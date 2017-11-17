@@ -10,6 +10,3 @@ var halfSentence = dinosaurCharsAfter.length/2;
 dinosaurCharsAfter = dinosaurCharsAfter.substring(0, halfSentence);
 
 console.log(dinosaurCharsAfter);
-
-
-
